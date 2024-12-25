@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746182761504",
+    "project_id": "uttammart-b46eb",
+    "storage_bucket": "uttammart-b46eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746182761504:android:9e7c80400f01496e9cf045",
+        "android_client_info": {
+          "package_name": "com.app.uttammart_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mZ1F0ZYIs0mDkjTDFlDpkEsS9hvCmQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
