@@ -44,30 +44,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCyLeG3JvoAt9KNWcwZ0XHvEHaTpzyKsvM',
-    appId: '1:746182761504:web:254b97468b07d75c9cf045',
-    messagingSenderId: '746182761504',
-    projectId: 'uttammart-b46eb',
-    authDomain: 'uttammart-b46eb.firebaseapp.com',
-    storageBucket: 'uttammart-b46eb.firebasestorage.app',
-    measurementId: 'G-35HVPCYYT8',
+    apiKey: 'AIzaSyAb-WvW8UuIQtlT3wbWf5R7xokSkMMHL20',
+    appId: '1:958795741898:web:932a286088726c3aae9233',
+    messagingSenderId: '958795741898',
+    projectId: 'taxilamart-5b262',
+    authDomain: 'taxilamart-5b262.firebaseapp.com',
+    storageBucket: 'taxilamart-5b262.firebasestorage.app',
+    measurementId: 'G-R4HQJLZ254',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC1mZ1F0ZYIs0mDkjTDFlDpkEsS9hvCmQI',
-    appId: '1:746182761504:android:9e7c80400f01496e9cf045',
-    messagingSenderId: '746182761504',
-    projectId: 'uttammart-b46eb',
-    storageBucket: 'uttammart-b46eb.firebasestorage.app',
+    apiKey: 'AIzaSyBhh4c-fmoGZyR5rCUR9mmCc33PZQRxbrk',
+    appId: '1:958795741898:android:b4d4ab0ac5eb9801ae9233',
+    messagingSenderId: '958795741898',
+    projectId: 'taxilamart-5b262',
+    storageBucket: 'taxilamart-5b262.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB7ZutxPQPMZ-QLC1L_rIO1eDOGmEMoI20',
-    appId: '1:746182761504:ios:d9b4dcd524a8b4a69cf045',
-    messagingSenderId: '746182761504',
-    projectId: 'uttammart-b46eb',
-    storageBucket: 'uttammart-b46eb.firebasestorage.app',
-    iosBundleId: 'com.app.uttammartuser',
+    apiKey: 'AIzaSyDT-qfqhOxgiic3o98Xoangrp6UkZROTkA',
+    appId: '1:958795741898:ios:94407f442185a52cae9233',
+    messagingSenderId: '958795741898',
+    projectId: 'taxilamart-5b262',
+    storageBucket: 'taxilamart-5b262.firebasestorage.app',
+    iosBundleId: 'com.app.taxilamartuser',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -76,6 +76,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '746182761504',
     projectId: 'uttammart-b46eb',
     storageBucket: 'uttammart-b46eb.firebasestorage.app',
-    iosBundleId: 'com.app.uttammartuser',
+    iosBundleId: 'com.app.taxilamartuser',
   );
 }

@@ -2,13 +2,13 @@ importScripts("https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/8.10.1/firebase-messaging.js");
 
 firebase.initializeApp({
-    apiKey: "AIzaSyBCtDfdfPqxXDO6rDNlmQC1Otuyo3w",
+    apiKey: "AIzaSyDT-qfqhOxgiic3o98Xoangrp6UkZROTkA",
     authDomain: "gem-b5006.firebaseapp.com",
-    projectId: "gem-b5006",
-    storageBucket: "gem-b5006.appspot.com",
-    messagingSenderId: "384321080318",
-    appId: "1:384321080318:web:9cf2ec90f41dfb8a2c0eaf",
-    measurementId: "G-RQ899NQVHN",
+    projectId: "taxilamart-5b262",
+    storageBucket: "taxilamart-5b262.firebasestorage.app",
+    messagingSenderId: "958795741898",
+    appId: "1:958795741898:ios:94407f442185a52cae9233",
+    measurementId: "G-R4HQJLZ254",
 });
 
 const messaging = firebase.messaging();

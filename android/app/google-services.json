@@ -1,26 +1,51 @@
 {
   "project_info": {
-    "project_number": "746182761504",
-    "project_id": "uttammart-b46eb",
-    "storage_bucket": "uttammart-b46eb.firebasestorage.app"
+    "project_number": "958795741898",
+    "project_id": "taxilamart-5b262",
+    "storage_bucket": "taxilamart-5b262.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:746182761504:android:9e7c80400f01496e9cf045",
+        "mobilesdk_app_id": "1:958795741898:android:b4d4ab0ac5eb9801ae9233",
         "android_client_info": {
-          "package_name": "com.app.uttammart_user"
+          "package_name": "com.app.taxilamart_user"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "958795741898-45r9mavtlt8k8tbsjpvbatka4tt18b9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.taxilamart_user",
+            "certificate_hash": "b72f7db966d36e3d940559f15b43d1132d24ed07"
+          }
+        },
+        {
+          "client_id": "958795741898-nitpoeq2k28snnfi5mrpommng594d2pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyC1mZ1F0ZYIs0mDkjTDFlDpkEsS9hvCmQI"
+          "current_key": "AIzaSyBhh4c-fmoGZyR5rCUR9mmCc33PZQRxbrk"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958795741898-nitpoeq2k28snnfi5mrpommng594d2pp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958795741898-kftjmnua0p4kjk7h7o3bsh3dusunb2ip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.taxilamartuser"
+              }
+            }
+          ]
         }
       }
     }

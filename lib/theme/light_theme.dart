@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 
 ThemeData light = ThemeData(
   fontFamily: AppConstants.fontFamily,
-  primaryColor: const Color(0xFF562E9C),
-  secondaryHeaderColor: const Color(0xFFEFE6FE),
+  primaryColor: const Color(0xFFF26B0F), // Orange
+  secondaryHeaderColor: const Color(0xFFFFC145), // Yellow
   brightness: Brightness.light,
   cardColor: Colors.white,
-  focusColor: const Color(0xFFC3CAD9),
+  focusColor: const Color(0xFFF6A302),
   hintColor: const Color(0xFF52575C),
   canvasColor: const Color(0xFFFCFCFC),
   shadowColor: Colors.grey[300],
@@ -17,15 +17,15 @@ ThemeData light = ThemeData(
   colorScheme: ColorScheme(
     background: const Color(0xFFFCFCFC),
     brightness: Brightness.light,
-    primary: const Color(0xFF562E9C),
-    onPrimary: const Color(0xFF562E9C),
-    secondary: const Color(0xFFEFE6FE),
-    onSecondary: const Color(0xFFEFE6FE),
+    primary: const Color(0xFFF26B0F), // Orange
+    onPrimary: const Color(0xFFF26B0F),
+    secondary: const Color(0xFFFFC145), // Yellow
+    onSecondary: const Color(0xFFFFC145),
     error: Colors.redAccent,
     onError: Colors.redAccent,
-    onBackground: const Color(0xFFC3CAD9),
+    onBackground: const Color(0xFFFFC145),
     surface: Colors.white,
-    onSurface:  const Color(0xFF002349),
+    onSurface: const Color(0xFF002349),
     shadow: Colors.grey[300],
   ),
 );
